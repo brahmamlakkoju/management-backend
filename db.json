@@ -1,0 +1,23 @@
+{
+    "doctors": [
+      {
+        "name": "O Sravan",
+        "salary": "1000000",
+        "gender": "male",
+        "age": "26",
+        "specialization": "Eye",
+        "id": 1
+      }
+    ],
+    "patients": [
+      {
+        "name": "Sai",
+        "weight": "56",
+        "gender": "female",
+        "age": "34",
+        "disease": "eye",
+        "doctor": "O Sravan",
+        "id": 1
+      }
+    ]
+  }
